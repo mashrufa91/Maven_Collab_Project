@@ -15,7 +15,7 @@ public class LeapYearProgram {
 		
 		// can also use Scanner class to take in value from user
 		
-		
+		System.out.println();
 	}
 
 }
